@@ -26,4 +26,34 @@ Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO te convida a
 
 
 
+# Natty or Not – Personas IA 👁️‍🗨️
+
+## 📒 Descrição  
+Gera personas multimodais (imagem + bio + áudio) para desafiar usuários a identificar criados com IA.
+
+## 🤖 Tecnologias  
+- GPT‑4 (+ few‑shot, role prompting, meta‑prompting)  
+- DALL·E‑3 (prompt detalhado com metadados fotográficos)  
+- ElevenLabs TTS (tom conversacional)  
+- React, Node.js/Flask, MongoDB
+
+## 🧐 Processo de Criação  
+1. **Prompt inicial**: role + exemplos + estrutura (bio, imagem, áudio)  
+2. **Imagem**: prompt técnico com ISO/lente/iluminação  
+3. **Áudio**: instruções de voz  
+4. **Iteração**: refinamento de prompts via meta‑prompting  
+5. **UI e backend**: armazenar interações + deploy no Vercel
+
+## 🚀 Resultados  
+- 25 personas (média de acerto: 55%)  
+- Interface funcional  
+- Stats reais de interação
+
+## 💭 Reflexão  
+Com IA multimodal, distinguir real de gerado fica cada vez mais difícil — exigindo transparência e ética. A técnica de prompting foi essencial para atingir esse realismo.
+
+
+
+
+
 
